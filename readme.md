@@ -27,7 +27,7 @@ If you're new to using Markdown, check out the **More Resources** section of thi
 
 The first step is to open your Markdown editor and start creating your resume.
 
-Markdown is a lightweight markup language used to create and format simple text documents. Markdown files can be converted to an appropriate format that can be displayed as a webpage. The purpose of a lightweight markup language like Markdown is to have a more human-readable code that others can look at.
+Markdown is a lightweight markup language used to create and format simple text documents. Markdown files can be converted to an appropriate format that can be displayed as a webpage. The purpose of a lightweight markup language like Markdown is to have human-readable code that others can look at.
 
 This human-readability characteristic is pointed out by Andrew Etter in his book, and using a lightweight markup language as a technical writer is one of his principles. He notes that having something written in Markdown also makes it easier for collaboration. When writing a ReadMe file that is to eventually be modified by different people with diverse skillsets, a lightweight markup language makes it easier for those people to make a meaningful contribution.
 
