@@ -25,27 +25,27 @@ If you're new to using Markdown, check out the **More Resources** section of thi
 
 #### 1) Create your resume in Markdown
 
-The first step is to open your Markdown editor and start creating your resume. If you have a resume already handy in a .docx or .pdf format, you can copy the information from there into your Markdown editor and make adjustments as needed.
+The first step is to open your Markdown editor and start creating your resume.
 
-Markdown is a lightweight markup language used to create and format simple text documents. While web pages are displayed to you using HTML (another markup language) writing HTML code can be a bit difficult, especially when starting out. Markdown files can be converted to an appropriate format that can be displayed as a webpage. The purpose of a lightweight markup language like Markdown is to have a more human-readable piece of code that others can look at.
+Markdown is a lightweight markup language used to create and format simple text documents. Markdown files can be converted to an appropriate format that can be displayed as a webpage. The purpose of a lightweight markup language like Markdown is to have a more human-readable code that others can look at.
 
-This feature is pointed out by Andrew Etter in his book, and using a lightweight markup language as a technical writer is one of his principles. He notes that having something written in Markdown also makes it easier for collaboration. For example, when writing a ReadMe file that is to eventually be modified by different people with diverse skillsets, a lightweight markup language makes it easier for those people to make a meaningful contribution.
+This human-readability characteristic is pointed out by Andrew Etter in his book, and using a lightweight markup language as a technical writer is one of his principles. He notes that having something written in Markdown also makes it easier for collaboration. When writing a ReadMe file that is to eventually be modified by different people with diverse skillsets, a lightweight markup language makes it easier for those people to make a meaningful contribution.
 
 #### 2) Create a new website with Jekyll
 
-Now that we have a Markdown-formatted resume, we want to get the files ready for when we eventually host it online. We can get a folder created locally on your computer with all of the relevant files we need using Jekyll.
+Now that we have a Markdown-formatted resume, we want to get the files ready for when we eventually host it online. We can create a folder locally on your computer with all of the relevant files we need using Jekyll.
 
 Start by opening your computer's terminal. Then, enter the following command:  
 ```
 jekyll new [name]
 ```
-Where "name" is the name of the folder you want to create. Depending on the directory that you opened your terminal in, there should now be a folder there with the name you gave in the command. This folder contains all of the necessary files to host your website.
+Where "name" is the name of the folder you want to create. Depending on the directory that you opened your terminal in, there should now be a folder there with the name you gave in the command. This folder contains all of the files needed to host your website.
 
-You may have noticed that the size of this folder is pretty small, and Andrew Etter notes this as a strength. Compared to dynamic websites, static websites don't require a lot of resources to create nor to host online. This makes them a quick and efficient option for showing text, which is desirable when the point of your website is only to show text!
+You may have noticed that the size of this folder is pretty small, and Andrew Etter notes this as a strength. Compared to dynamic websites, static websites don't require a lot of resources to create nor to host online. This makes them a quick and efficient option for showing text.
 
 #### 3) Create a repository for your website in GitHub
 
-In order to host your website through GitHub Pages, you will need to create a repository in your GitHub account for it. Creating a repository is as simple as clicking the button in the top right corner of this page in GitHub where your profile picture is, going to "Your repositories", and then clicking the green button that says "New". The name of your repository should be in the following format:
+In order to host your website through GitHub Pages, you will need to create a repository in your GitHub account for it. This repository will contain the files you created in step 2. The name of your repository should be in the following format:
 ```
 yourGitHubUsername.github.io
 ```
@@ -54,7 +54,7 @@ GitHub provides a distributed version control system (DVCS), which helps keep tr
 
 #### 4) Update your folder with your resume
 
-Specifically, we're going to update the file titled:
+In the folder you created from step 2, we're going to update the file titled:
 ```
 index.md
 ```
@@ -63,7 +63,7 @@ In this file, below the content at the top (called the "front matter") separated
 
 #### 5) Upload your files to your repository
 
-At the moment, the repository you created in step 3 is currently empty. Go to your repository's page. There should be a blue-shaded box for quick setup. From there, click on the option that says "upload an existing file". You will then be taken to a page where you can upload your files. From here, you can go ahead and upload all of the files from the folder you created in step 2. Be sure to commit your changes with the green button near the bottom!
+At the moment, the repository you created in step 3 is currently empty. On the repository's page, click on the option "uploading an existing file". You will then be taken to a page where you can upload your files. From here, you upload all of the files from the folder you created in step 2 with a simple drag-and-drop. Be sure to commit your changes with the green button near the bottom!
 
 #### 6) Celebrate
 
