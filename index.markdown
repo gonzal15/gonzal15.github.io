@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Joseph Gonzales
 ---
 
-# Joseph Gonzales
 address, e-mail, phone number  
 
 ## Education
