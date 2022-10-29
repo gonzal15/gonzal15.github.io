@@ -39,7 +39,7 @@ Start by opening your computer's terminal. Then, enter the following command:
 ```
 jekyll new [name]
 ```
-Where "name" is the name of the folder you want to create. Depending on the directory that you opened your terminal in, there should now be a folder there with the name you gave in the command. This folder contains all of the files needed to host your website.
+Where "name" is the name of the folder you want to create. Depending on the directory that you opened your terminal in, there should now be a folder there with the name you gave in the command. This folder contains all of the files needed to display the content on your website.
 
 You may have noticed that the size of this folder is pretty small, and Andrew Etter notes this as a strength. Compared to dynamic websites, static websites don't require a lot of resources to create nor to host online. This makes them a quick and efficient option for showing text.
 
