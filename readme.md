@@ -1,6 +1,6 @@
 # Your resume, online!
 
-![Demo][A2 Gif.gif]
+![Demo](A2 Gif.gif)
 
 ## Purpose
 
