@@ -1,5 +1,7 @@
 # Your resume, online!
 
+![Demo][A2 Gif.gif]
+
 ## Purpose
 
 The purpose of this ReadMe is to help you host your resume online as a static website. By the end of this tutorial, you should be able to:
