@@ -33,7 +33,7 @@ This human-readability characteristic is pointed out by Andrew Etter in his book
 
 #### 2) Create a new website with Jekyll
 
-Now that we have a Markdown-formatted resume, we want to get the files ready for when we eventually host it online. We can create a folder locally on your computer with all of the relevant files we need using Jekyll.
+Now that you have a Markdown-formatted resume, you will want to get the files ready for when you eventually host it online. You can create a folder locally on your computer with all of the relevant files you need using Jekyll.
 
 Start by opening your computer's terminal. Then, enter the following command:  
 ```
@@ -54,7 +54,7 @@ GitHub provides a distributed version control system (DVCS), which helps keep tr
 
 #### 4) Update your folder with your resume
 
-In the folder you created from step 2, we're going to update the file titled:
+In the folder you created from step 2, you're going to update the file titled:
 ```
 index.md
 ```
