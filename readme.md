@@ -1,6 +1,6 @@
 # Your resume, online!
 
-![Demo](A2 Gif.gif)
+![Demo](https://github.com/gonzal15/gonzal15.github.io/blob/main/A2%20Gif.gif)
 
 ## Purpose
 
