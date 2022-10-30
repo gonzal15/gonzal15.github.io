@@ -75,11 +75,13 @@ yourGitHubUsername.github.io
 
 ## More Resources
 
-- A great Markdown tutorial can be [found here](https://www.markdowntutorial.com/).
+- A great Markdown tutorial can be [found here](https://www.markdowntutorial.com/)
 - An overview of the basic syntax of Markdown can be [found here](https://www.markdownguide.org/basic-syntax/)
 - *Modern Technical Writing*, by Andrew Etter, can be purchased from [Amazon](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ## Authors and Acknowledgements
+
+//To be filled after peer review
 
 ## FAQs
 
