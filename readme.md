@@ -95,7 +95,7 @@ Go to your repository, and edit the file named:
 ```
 index.md
 ```
-Recall from step 4 of the instructions that there is the section of the file that was referred to as the "front matter", identified with three dashes above and below. If you created a heading at the top of your resume with your name, delete this. In the front matter, add a new line within the dashes with:
+Recall from step 4 of the instructions that there is the section of the file that was referred to as the "front matter", identified with three dashes above and below. If you created a heading at the beginning of your resume with your name, delete this. In the front matter, add a new line within the dashes with:
 ```
 title: [your name]
 ```
