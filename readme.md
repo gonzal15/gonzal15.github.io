@@ -65,14 +65,13 @@ In this file, below the content at the top (called the "front matter") separated
 
 At the moment, the repository you created in step 3 is currently empty. On the repository's page, click on the option "uploading an existing file". You will then be taken to a page where you can upload your files. From here, you upload all of the files from the folder you created in step 2 with a simple drag-and-drop. Be sure to commit your changes with the green button near the bottom!
 
-#### 6) Celebrate
+#### 6) See your work
 
-At this point, once you've given a few minutes after uploading your files, you should be able to view your resume at
+At this point, once you've given a few minutes after uploading your files, you should be able to view your resume at:
 ```
 yourGitHubUsername.github.io
 ```
 
-Congratulations! You are now ready to share this link with prospective employers!
 
 ## More Resources
 
