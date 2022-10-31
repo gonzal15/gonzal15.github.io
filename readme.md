@@ -19,7 +19,7 @@ These goals align with the principles taught in Andrew Etter's book, *Modern Tec
 - A Markdown editor, this ReadMe was written using [ghostwriter](https://github.com/KDE/ghostwriter)
 - Jekyll, a static site generator. You can [view instructions here](https://jekyllrb.com/docs/installation/) for more information on how to install Jekyll according to your operating system
 
-If you're new to using Markdown, check out the **More Resources** section of this ReadMe to get a link to a tutorial on using Markdown.
+If you're new to using Markdown, check out the [More Resources](#more-resources) section of this ReadMe to get a link to a tutorial on using Markdown.
 
 ## Instructions
 
