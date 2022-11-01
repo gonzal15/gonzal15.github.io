@@ -81,7 +81,8 @@ yourGitHubUsername.github.io
 
 ## Authors and Acknowledgements
 
-//To be filled after peer review
+- Website theme *minima* provided by Jekyll
+- Additional suggestions provided by Gurdit Singh, Muhammed Ibrahim
 
 ## FAQs
 
